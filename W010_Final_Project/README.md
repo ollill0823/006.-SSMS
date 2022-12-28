@@ -1,23 +1,12 @@
-# 2022 Shohei Ohtani's Pitching/Batting Data Analysis
+# 006.SSMS
 
 ## This file includes:
 
 
 
-### CSV file:
-- [2018_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2019_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2020_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2021_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2022_MLB_batting.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2018_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2019_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2020_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2021_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [2022_MLB_pitching.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/2018_MLB_batting.csv) Raw data from [Baseball Savant](https://baseballsavant.mlb.com/statcast_search%20choosing%20Shohei%20Ohtani's%20pitching%20result)
-- [Shohei_Ohtani_Batting_Baseball_Savant.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Shohei_Ohtani_Batting_Baseball_Savant.csv) Raw data from [Fangraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=20&type=8&season=2022&month=0&season1=2022&ind=0&team=0&rost=0&age=0&filter=&players=0)
-- [Shohei_Ohtani_Pitching_Baseball_Savant.csv](https://github.com/ollill0823/005.UCLA_extension_R-Exploratory-Data-Analysis-and-Visualization/blob/main/010.2022_Shohei_Ohtani/Shohei_Ohtani_Pitching_Baseball_Savant.csv) Raw data from [Fangraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=20&type=8&season=2022&month=0&season1=2022&ind=0&team=0&rost=0&age=0&filter=&players=0)
-
+### CSV or excel file:
+- [Information.xlsx](https://github.com/ollill0823/006.SSMS/blob/main/W010_Final_Project/Information.xlsx) Raw data
+- [us_postal_codes.csv](https://github.com/ollill0823/006.SSMS/blob/main/W010_Final_Project/us_postal_codes.csv) US postal codes
 
 
 
